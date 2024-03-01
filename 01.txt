@@ -1,0 +1,12 @@
+24580
+Guanabara
+Fortaleza;Pacajus
+Fortaleza;18:00;13:50
+Messejana;14:30;14:45
+Pacajus;16:00;16:10
+24581
+Princesa
+Caninde;Pacajus
+Caninde;18:00;13:50
+Canindezinho;14:00;14:50
+Pacajus;15:00;16:10
